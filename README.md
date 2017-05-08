@@ -45,11 +45,11 @@ Demo snippet
 
 $conf = [
     "layout" => [
-        "name" => "ajax/default",
+        "tpl" => "ajax/default",
     ],
     "widgets" => [
         "main.modalContent" => [
-            "name" => "ModalContent/default",
+            "tpl" => "ModalContent/default",
             "conf" => [
                 "type" => "error",
                 "title" => "404",
